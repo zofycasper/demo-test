@@ -1,3 +1,3 @@
 # Demo
 
-coding is fun.
+coding is fun!
